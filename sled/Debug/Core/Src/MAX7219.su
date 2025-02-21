@@ -1,0 +1,4 @@
+../Core/Src/MAX7219.c:8:6:MAX7219_Send	24	static
+../Core/Src/MAX7219.c:15:6:MAX7219_Init	8	static
+../Core/Src/MAX7219.c:22:6:Display_Hardcoded_Number	8	static
+../Core/Src/MAX7219.c:30:6:Display_Number	24	static

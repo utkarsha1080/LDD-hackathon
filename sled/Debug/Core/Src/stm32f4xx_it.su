@@ -1,0 +1,3 @@
+../Core/Src/stm32f4xx_it.c:28:6:TIM2_IRQHandler	8	static
+../Core/Src/stm32f4xx_it.c:39:6:EXTI0_IRQHandler	8	static
+../Core/Src/stm32f4xx_it.c:43:6:HAL_GPIO_EXTI_Callback	16	static
